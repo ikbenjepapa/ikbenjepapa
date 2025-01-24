@@ -1,4 +1,4 @@
-# 🙋‍♂️ About Me:
+# 🙋‍♂️ About Me: 
 🌟 What I'm Currently Working On<br>Trading Bot Agent: Developing an automated trading bot that leverages intelligent algorithms for dynamic market analysis.<br>CAST Translation App: Enhancing my Contextual Accurate Swift Translation app to deliver seamless and culturally relevant translations.<br>etc.<br> ✅ App Development: Building and refining innovative, user-centric tools like CAST.<br> ✅ Retail Systems: Optimizing workflows and product presentation in e-commerce.<br>🛠️ Looking for Help With<br>Advanced trading strategies and integrating AI for decision-making in my bot.<br>Insights into UI/UX best practices to refine the CAST app experience.<br>📚 Currently Learning<br>Advanced app development techniques to improve functionality and scalability.<br>Market dynamics for creating more effective trading bot strategies.<br>Context-driven translation practices to make CAST more versatile.<br>
 
 # 💻 Tech Stack:
